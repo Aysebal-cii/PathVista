@@ -1,2 +1,7 @@
 # PathVista
-Kodun temel amacı, kullanıcının belirttiği iki konum arasındaki en kısa yolu veya rotayı bulmak ve görselleştirmektir.
+The primary goal of the code is to find and visualize the shortest path or route between two specified locations provided by the user. This functionality can be applied in various contexts such as travel planning, route optimization, and geographical analysis. 
+
+
+
+
+
